@@ -1,6 +1,6 @@
 # Cultivating Success: Leveraging Machine Learning to Optimize Crop Selection
 
-## Project Description
+## Project Introduction
 
 Assessing soil health by measuring critical metrics such as nitrogen, phosphorus, potassium levels, and pH is essential for understanding soil conditions. However, this process can be both costly and time-intensive, often leading farmers to prioritize which metrics to measure based on financial constraints.
 
