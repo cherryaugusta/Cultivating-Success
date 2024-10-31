@@ -1,6 +1,6 @@
 # Cultivating Success: Leveraging Machine Learning to Optimize Crop Selection
 
-This repository contains my solution and personal enhancements for the guided project **"Predictive Modeling for Agriculture"** from DataCamp on [DataCamp](https://www.datacamp.com/projects/1772). This project is shared for educational and portfolio purposes only.
+This repository contains my solution for the guided project **"Predictive Modeling for Agriculture"** from DataCamp on [DataCamp](https://www.datacamp.com/projects/1772). This project is shared for educational and portfolio purposes only to showcase my understanding and skills. I have completed this project by adding my insights, adjustments, and interpretations.
 
 ## Project Introduction
 
