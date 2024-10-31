@@ -1,5 +1,7 @@
 # Cultivating Success: Leveraging Machine Learning to Optimize Crop Selection
 
+This repository contains my solution and personal enhancements for the guided project **"Predictive Modeling for Agriculture"** from DataCamp on [DataCamp](https://www.datacamp.com/projects/1772).
+
 ## Project Introduction
 
 Assessing soil health by measuring critical metrics such as nitrogen, phosphorus, potassium levels, and pH is essential for understanding soil conditions. However, this process can be both costly and time-intensive, often leading farmers to prioritize which metrics to measure based on financial constraints.
@@ -43,3 +45,6 @@ The analysis determined that potassium content ("K") is the most predictive feat
 ## Conclusion
 
 The analysis of the dataset identifies potassium content ("K") as the most predictive feature in determining the optimal crop type for the soil conditions. With a feature importance score of approximately 0.257, potassium emerges as the most critical factor among the measured features for predicting crop suitability. These findings suggest that focusing on soil potassium levels may significantly enhance the accuracy of crop selection models.
+
+## Acknowledgments
+This project was developed as part of a DataCamp guided project. The original project can be found on [DataCamp](https://www.datacamp.com/projects/1772).
